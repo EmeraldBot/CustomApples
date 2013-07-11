@@ -1,0 +1,7 @@
+name: CustomApples
+version: 1.0
+main: com.etriacraft.customapples.CustomApples
+author: MistPhizzle
+commands:
+  customapples:
+    aliases: [ca]
